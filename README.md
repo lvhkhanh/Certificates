@@ -10,7 +10,7 @@
 
 [Google Cloud Digital Leader Training Coursera X933BP2AKEBH.pdf](https://github.com/lvhkhanh/Certificates/files/11644870/Google.Cloud.Digital.Leader.Training.Coursera.X933BP2AKEBH.pdf)
 
-![image](https://github.com/lvhkhanh/Certificates/assets/919300/1aee5369-3808-4f9a-bab5-1243bc945869)
+![image](https://github.com/lvhkhanh/Certificates/assets/919300/a43f6b5b-a161-49a6-9e3b-096ffcc0c9bc)
 
 
 [AWS Certified Cloud Practitioner certificate.pdf](https://github.com/lvhkhanh/Certificates/files/11644871/AWS.Certified.Cloud.Practitioner.certificate.pdf)
