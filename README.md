@@ -25,7 +25,8 @@
 
 [React certificate.pdf](https://github.com/lvhkhanh/Certificates/files/11644873/React.certificate.pdf)
 
-![image](https://github.com/lvhkhanh/Certificates/assets/919300/b2c405fd-e887-44fc-ae2a-c6f04a66f770)
+![image](https://github.com/lvhkhanh/Certificates/assets/919300/d7a2dfee-418b-4d33-a796-4979cfa96ec4)
+
 
 
 [Junior NG Cert.pdf](https://github.com/lvhkhanh/Certificates/files/11644874/Junior.NG.Cert.pdf)
