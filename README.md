@@ -1,7 +1,7 @@
 # Certificates
 [nd1202.pdf](https://github.com/lvhkhanh/Certificates/files/11644868/nd1202.pdf)
 
-![image](https://github.com/lvhkhanh/Certificates/assets/919300/c92b62b5-9ba5-46c7-9843-2f5572210a37)
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/c92b62b5-9ba5-46c7-9843-2f5572210a37"  width="600" height="300">
 
 [nd055.pdf](https://github.com/lvhkhanh/Certificates/files/11644869/nd055.pdf)
 
