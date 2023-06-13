@@ -1,4 +1,8 @@
 # Certificates
+[Architecting Solutions on AWS Coursera 8BMXM8RDQ6NY.pdf](https://github.com/lvhkhanh/Certificates/files/11736046/Architecting.Solutions.on.AWS.Coursera.8BMXM8RDQ6NY.pdf)
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/3faed64e-8f3a-4d51-935f-4da61aba8a19"  width="600">
+
+
 [Coursera MLEV4T2JPFCG.pdf](https://github.com/lvhkhanh/Certificates/files/11706647/Coursera.MLEV4T2JPFCG.pdf)
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/28aba3fa-6483-4bbc-a4ab-a071a0f7c47e"  width="600">
