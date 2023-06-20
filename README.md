@@ -1,4 +1,8 @@
 # Certificates
+ Bash Scripting and Shell Programming (Linux Command Line) 
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/7aa6fc98-0b0d-4678-82e7-63ab72406545"  width="600">
+
+ 
 [Architecting Solutions on AWS Coursera 8BMXM8RDQ6NY.pdf](https://github.com/lvhkhanh/Certificates/files/11736046/Architecting.Solutions.on.AWS.Coursera.8BMXM8RDQ6NY.pdf)
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/3faed64e-8f3a-4d51-935f-4da61aba8a19"  width="600">
 
