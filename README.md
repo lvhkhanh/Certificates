@@ -1,4 +1,9 @@
 # Certificates
+[Introduction to Designing Data Lakes on AWS Coursera HCKVFEHUCMRP.pdf](https://github.com/lvhkhanh/Certificates/files/11843350/Introduction.to.Designing.Data.Lakes.on.AWS.Coursera.HCKVFEHUCMRP.pdf)
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/69759eb5-57b8-4e9c-929e-59f92061b393" width="600">
+
+
+
  Bash Scripting and Shell Programming (Linux Command Line) 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/7aa6fc98-0b0d-4678-82e7-63ab72406545"  width="600">
 
