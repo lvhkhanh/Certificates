@@ -1,6 +1,6 @@
 # Certificates
 
-[AWS Cloud Solutions Architect Coursera 89WRSLGGCLR7.pdf](https://github.com/lvhkhanh/Certificates/files/11855952/AWS.Cloud.Solutions.Architect.Coursera.89WRSLGGCLR7.pdf)
+[AWS Cloud Solutions Architect by Amazon Web Services on Coursera. Certificate earned at June 24, 2023 89WRSLGGCLR7.pdf](https://github.com/lvhkhanh/Certificates/files/11855952/AWS.Cloud.Solutions.Architect.Coursera.89WRSLGGCLR7.pdf)
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/c89f8edc-c299-49b9-894a-365e922601bf" width="600">
 
 
