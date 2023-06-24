@@ -1,4 +1,10 @@
 # Certificates
+
+Exam Prep: AWS Certified Solutions Architect -
+Associate[part 4 Coursera 2G3FYNKVJQ3S.pdf](https://github.com/lvhkhanh/Certificates/files/11855942/part.4.Coursera.2G3FYNKVJQ3S.pdf)
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/dec5a553-3ac0-41fb-aa18-c20cfd3a5aff" width="600">
+
+
 [Introduction to Designing Data Lakes on AWS Coursera HCKVFEHUCMRP.pdf](https://github.com/lvhkhanh/Certificates/files/11843350/Introduction.to.Designing.Data.Lakes.on.AWS.Coursera.HCKVFEHUCMRP.pdf)
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/69759eb5-57b8-4e9c-929e-59f92061b393" width="600">
 
