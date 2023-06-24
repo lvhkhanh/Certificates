@@ -1,5 +1,9 @@
 # Certificates
 
+[AWS Cloud Solutions Architect Coursera 89WRSLGGCLR7.pdf](https://github.com/lvhkhanh/Certificates/files/11855952/AWS.Cloud.Solutions.Architect.Coursera.89WRSLGGCLR7.pdf)
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/c89f8edc-c299-49b9-894a-365e922601bf" width="600">
+
+
 Exam Prep: AWS Certified Solutions Architect -
 Associate[part 4 Coursera 2G3FYNKVJQ3S.pdf](https://github.com/lvhkhanh/Certificates/files/11855942/part.4.Coursera.2G3FYNKVJQ3S.pdf)
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/dec5a553-3ac0-41fb-aa18-c20cfd3a5aff" width="600">
