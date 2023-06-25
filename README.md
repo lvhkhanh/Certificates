@@ -1,5 +1,9 @@
 # Certificates
 
+[ Software Architecture Case Studies-UC-233df94b-be4c-4520-ad36-c73158df69d5.pdf](https://github.com/lvhkhanh/Certificates/files/11858891/Software.Architecture.Case.Studies-UC-233df94b-be4c-4520-ad36-c73158df69d5.pdf)
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/929921e2-0b18-4d29-9dc6-3320653b5288" width="600">
+
+
 [AWS Cloud Solutions Architect by Amazon Web Services on Coursera. Certificate earned at June 24, 2023 89WRSLGGCLR7.pdf](https://github.com/lvhkhanh/Certificates/files/11855952/AWS.Cloud.Solutions.Architect.Coursera.89WRSLGGCLR7.pdf)
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/c89f8edc-c299-49b9-894a-365e922601bf" width="600">
 
