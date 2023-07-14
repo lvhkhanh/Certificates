@@ -1,5 +1,10 @@
 # Certificates
 
+[AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/2fd2bb1f-2e98-4212-b397-54cc421ec483)
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/c5270042-7b75-4da5-8e91-6fa09ee860c6" width="600">
+
+
 [ Software Architecture Case Studies-UC-233df94b-be4c-4520-ad36-c73158df69d5.pdf](https://github.com/lvhkhanh/Certificates/files/11858891/Software.Architecture.Case.Studies-UC-233df94b-be4c-4520-ad36-c73158df69d5.pdf)
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/929921e2-0b18-4d29-9dc6-3320653b5288" width="600">
 
