@@ -1,7 +1,9 @@
 # Certificates
 
-Course completed on 07/19/2023
-AWS Partner: Sales Accreditation (Business)
+[Course completed on 07/19/2023
+AWS Partner: Sales Accreditation (Business)](https://www.credly.com/badges/44cdd3ff-e9d8-46c5-9d47-9bcd3b5cd54b)
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/8948d5ef-d9d8-443c-9c4f-c3a586f6550c" width="600">
 
 
 [AWS Partner: Accreditation (Technical)](https://www.credly.com/badges/2fd2bb1f-2e98-4212-b397-54cc421ec483)
