@@ -1,5 +1,7 @@
 # Certificates
 
+AWS Partner: Cloud Economics Accreditation 20230828
+
 [Course completed on 07/19/2023
 AWS Partner: Sales Accreditation (Business)](https://www.credly.com/badges/44cdd3ff-e9d8-46c5-9d47-9bcd3b5cd54b)
 
