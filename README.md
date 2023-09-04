@@ -1,5 +1,9 @@
 # Certificates
 
+[Oracle Cloud Infrastructure 2023 Certified Foundations Associate 20230904]()
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/2c93e9c4-6f93-474d-ae50-c18738a34d3c" width="600">
+
+
 [AWS Partner: Cloud Economics Accreditation 20230828](https://www.credly.com/badges/19c194ea-c53d-48fd-adf5-206c98bd3074)
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/d9d1d302-7e29-4652-80c5-08cc6d24fce0" width="600">
 
