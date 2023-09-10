@@ -1,5 +1,9 @@
 # Certificates
 
+[Oracle Cloud Data Management 2023 Certified Foundations Associate 20230910]()
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/90762487-78e0-428f-a7e4-c89c9d49ffa1" width="600">
+
+
 [Oracle Cloud Infrastructure 2023 Certified Foundations Associate 20230904]()
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/2c93e9c4-6f93-474d-ae50-c18738a34d3c" width="600">
 
