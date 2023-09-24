@@ -1,4 +1,9 @@
 # Certificates
+
+[Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate 20230924 ]()
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/641a995f-336c-46b4-9ae2-37f804cc3462" width="600">
+
+
 [Oracle Cloud Infrastructure 2023 Certified Multicloud Architect Associate 20230920]()
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/e8944228-4ddb-425a-a672-3db715e2173e" width="600">
 
