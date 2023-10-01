@@ -3,6 +3,12 @@
 ## Udemy https://fpt.udemy.com/user/khanhlvh1/ https://fpt-software.udemy.com/user/khanhlvh1/ https://fpt-software.udemy.com/user/6f322d0b-fe1e-4c30-a6a9-e532b822d5a3/
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 # Certificates
+
+[Introduction to Large Language Models 20231001 ](https://www.coursera.org/account/accomplishments/certificate/XG3GYAFGA4XD)
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/39b41c49-a6d1-4cf1-b965-ad5a22c12a4f" width="600">
+
+
 [Introduction to Generative AI Studio 20231001](https://www.coursera.org/account/accomplishments/certificate/YUBZVJ8W4A4T)
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/3ab06504-6027-4104-b6e5-bf382505ce79" width="600">
