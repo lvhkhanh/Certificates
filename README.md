@@ -1,5 +1,7 @@
 # Profiles
 ## Coursera https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
+## Udemy https://fpt.udemy.com/user/khanhlvh1/ https://fpt-software.udemy.com/user/khanhlvh1/ https://fpt-software.udemy.com/user/6f322d0b-fe1e-4c30-a6a9-e532b822d5a3/
+
 # Certificates
 
 [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate 20230924 ]()
