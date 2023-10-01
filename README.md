@@ -1,3 +1,5 @@
+# Profiles
+## Coursera https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 # Certificates
 
 [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate 20230924 ]()
