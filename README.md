@@ -4,6 +4,11 @@
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 # Certificates
 
+[Introduction to Image Generation](https://www.coursera.org/account/accomplishments/certificate/7VREWZVLYG7C)
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/fbf3c83a-1c9a-4417-b73b-66036d8965cd" width="600">
+
+
 [Introduction to Large Language Models 20231001 ](https://www.coursera.org/account/accomplishments/certificate/XG3GYAFGA4XD)
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/39b41c49-a6d1-4cf1-b965-ad5a22c12a4f" width="600">
