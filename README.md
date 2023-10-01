@@ -4,6 +4,11 @@
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 # Certificates
 
+[Attention Mechanism 20231001](https://www.coursera.org/account/accomplishments/certificate/9C2BXN7WHFKQ)
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/eccdd0a6-a24e-4273-91a8-30e43f3952a9" width="600">
+
+
 [Introduction to Image Generation](https://www.coursera.org/account/accomplishments/certificate/7VREWZVLYG7C)
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/fbf3c83a-1c9a-4417-b73b-66036d8965cd" width="600">
