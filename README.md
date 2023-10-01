@@ -4,6 +4,11 @@
 
 # Certificates
 
+[Introduction to Generative AI 20231001](https://www.coursera.org/account/accomplishments/certificate/RWNRQGF6Z4YF)
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/6890fc06-3693-4f02-82d0-0b6e7a663e9d" width="600">
+
+
 [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate 20230924 ]()
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/641a995f-336c-46b4-9ae2-37f804cc3462" width="600">
 
