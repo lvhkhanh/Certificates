@@ -1,7 +1,7 @@
 # Profiles
 ## Coursera https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## Udemy https://fpt.udemy.com/user/khanhlvh1/ https://fpt-software.udemy.com/user/khanhlvh1/ https://fpt-software.udemy.com/user/6f322d0b-fe1e-4c30-a6a9-e532b822d5a3/
-
+## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 # Certificates
 [Introduction to Generative AI Studio 20231001](https://www.coursera.org/account/accomplishments/certificate/YUBZVJ8W4A4T)
 
