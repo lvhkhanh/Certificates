@@ -4,6 +4,8 @@
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 # Certificates
 
+[AWS Partner: Generative AI Essentials (Business) 20231029] waith credly akajob
+
 [Encoder-Decoder Architecture 20231001](https://www.coursera.org/account/accomplishments/certificate/X7C5WVUBQSPW)
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/11c22997-92e0-4549-a307-65e83be6913d" width="600">
