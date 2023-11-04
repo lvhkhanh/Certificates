@@ -4,6 +4,10 @@
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 # Certificates
 
+[How To Become An Outstanding Solution Architect ]
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/3357d7d5-ee4d-469f-831c-3a61d2927237" width="600">
+
 [AWS Partner: Generative AI Essentials (Business) 20231029] 
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/65c85aa7-0a43-49d2-95da-890c9547e267" width="600">
