@@ -4,6 +4,9 @@
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 # Certificates
 
+GraphQL 20231111
+
+
 [How To Become An Outstanding Solution Architect ]
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/3357d7d5-ee4d-469f-831c-3a61d2927237" width="600">
