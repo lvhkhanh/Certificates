@@ -1,1 +1,10 @@
-
+{
+  certificates: [
+    {
+      name: "Touring Vue Router (Composition API)",
+      date: "2023-11-11",
+      event: "Free Weekend Nov 11-12",
+      provider: "vuemastery"
+    }
+  ]
+}
