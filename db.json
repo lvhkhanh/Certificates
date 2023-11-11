@@ -1,4 +1,5 @@
 {
+  "a": "b",
   "certificates": [
     {
       "name": "Touring Vue Router (Composition API)",
