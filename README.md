@@ -4,7 +4,10 @@
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 # Certificates
 
-Build a Blog w/ Nuxt 3 Content 20231111
+Title|Date|Event
+|---|---|---|
+TypeScript Friendly Vue 3 | 2023-11-11 | Free Weekend Nov 11-12
+Build a Blog w/ Nuxt 3 Content | 2023-11-11| Free Weekend Nov 11-12
 
 GraphQL 20231111
 
