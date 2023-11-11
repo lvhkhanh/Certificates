@@ -3,6 +3,12 @@
   "certificates": [
     
     {
+      "name": "Q&A with Evan You",
+      "date": "2023-11-11",
+      "event": "Free Weekend Nov 11-12",
+      "provider": "vuemastery"
+    },
+    {
       "name": "Real World Vue 3 (Composition API)",
       "date": "2023-11-11",
       "event": "Free Weekend Nov 11-12",
