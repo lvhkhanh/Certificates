@@ -4,6 +4,8 @@
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 # Certificates
 
+Build a Blog w/ Nuxt 3 Content 20231111
+
 GraphQL 20231111
 
 
