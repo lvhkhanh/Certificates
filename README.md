@@ -6,6 +6,7 @@
 
 Title|Date|Event
 |---|---|---|
+Touring Vue Router (Composition API)|2023-11-11| Free Weekend Nov 11-12
 Fullstack w/ Nuxt Nitro|2023-11-11| Free Weekend Nov 11-12
 Programming an AI-Powered App|2023-11-11| Free Weekend Nov 11-12
 TypeScript Friendly Vue 3 | 2023-11-11 | Free Weekend Nov 11-12
