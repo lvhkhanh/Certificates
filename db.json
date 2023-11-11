@@ -3,6 +3,12 @@
   "certificates": [
     
     {
+      "name": "Vue for React Devs: Similarities",
+      "date": "2023-11-11",
+      "event": "Free Weekend Nov 11-12",
+      "provider": "vuemastery"
+    },
+    {
       "name": "Q&A with Evan You",
       "date": "2023-11-11",
       "event": "Free Weekend Nov 11-12",
