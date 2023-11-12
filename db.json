@@ -3,6 +3,12 @@
   "certificates": [
     
     {
+      "name": "5 Elegant ways to use Pinia",
+      "date": "2023-11-12",
+      "event": "Free Weekend Nov 11-12",
+      "provider": "vuemastery"
+    },
+    {
       "name": "Quick Tests with Vitest ",
       "date": "2023-11-12",
       "event": "Free Weekend Nov 11-12",
