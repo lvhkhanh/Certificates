@@ -3,6 +3,12 @@
   "certificates": [
     
     {
+      "name": "Utility-First CSS with Tailwind",
+      "date": "2023-11-12",
+      "event": "Free Weekend Nov 11-12",
+      "provider": "vuemastery"
+    },
+    {
       "name": "5 Elegant ways to use Pinia",
       "date": "2023-11-12",
       "event": "Free Weekend Nov 11-12",
