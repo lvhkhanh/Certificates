@@ -3,6 +3,12 @@
   "certificates": [
     
     {
+      "name": "Real World Testing",
+      "date": "2023-11-12",
+      "event": "Free Weekend Nov 11-12",
+      "provider": "vuemastery"
+    },
+    {
       "name": "Nuxt 3 Middleware",
       "date": "2023-11-12",
       "event": "Free Weekend Nov 11-12",
