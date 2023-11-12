@@ -3,6 +3,12 @@
   "certificates": [
     
     {
+      "name": "Quick Tests with Vitest ",
+      "date": "2023-11-12",
+      "event": "Free Weekend Nov 11-12",
+      "provider": "vuemastery"
+    },
+    {
       "name": "Real World Testing",
       "date": "2023-11-12",
       "event": "Free Weekend Nov 11-12",
