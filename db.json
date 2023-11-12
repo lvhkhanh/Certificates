@@ -3,6 +3,12 @@
   "certificates": [
     
     {
+      "name": "Firebase with Vue 3 and VueFire",
+      "date": "2023-11-12",
+      "event": "Free Weekend Nov 11-12",
+      "provider": "vuemastery"
+    },
+    {
       "name": "Utility-First CSS with Tailwind",
       "date": "2023-11-12",
       "event": "Free Weekend Nov 11-12",
