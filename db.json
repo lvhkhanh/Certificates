@@ -3,6 +3,11 @@
   "certificates": [
     
     {
+      "name": "AWS Partner: Cloud Business Value",
+      "date": "2023-11-18",
+      "provider": "AWS"
+    },
+    {
       "name": "Amazon DynamoDB - Data Modeling Techniques",
       "date": "2023-11-18",
       "provider": "AWS"
