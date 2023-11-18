@@ -67,7 +67,14 @@
       "date": "2023-11-11",
       "event": "Free Weekend Nov 11-12",
       "provider": "vuemastery"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "candidateId": "AWS02532697",
+      "validateNumber": "C6D1YK9CY2B11599",
+      "validateAt": "ttps://aws.amazon.com/verification",
+      "issueDate": "Dec 23, 2022",
+      "expirationDate": "Dec 23, 2025"
     }
-    
   ]
 }
