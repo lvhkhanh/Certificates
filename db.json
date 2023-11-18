@@ -3,6 +3,11 @@
   "certificates": [
     
     {
+      "name": "Amazon DynamoDB - Data Modeling Techniques",
+      "date": "2023-11-18",
+      "provider": "AWS"
+    },
+    {
       "name": "Firebase with Vue 3 and VueFire",
       "date": "2023-11-12",
       "event": "Free Weekend Nov 11-12",
