@@ -5,6 +5,10 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Business Analysis: Functional & Non-Functional Requirements 2024-01-01
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/aa636cc7-e18f-4371-babe-98893682823d" width="600">
+
+
  Sabre GDS Training | Sabre GDS Course | Sabre GDS Tutorial 2023-12-09
  <img src="https://github.com/lvhkhanh/Certificates/assets/919300/45e5d9e1-78b3-49ed-8014-f6387aed29a9" width="600">
 
