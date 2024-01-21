@@ -5,7 +5,14 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Modeling Data Relationships
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/8e021d28-8551-4f5a-abbf-9b3bd9b905ef" width="600">
+
+
+
 Identifying Database Workloads
+
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/945336de-adcf-42a2-83e0-dbd2dc7722a5" width="600">
 
 
