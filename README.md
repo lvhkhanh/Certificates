@@ -5,6 +5,10 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Identifying Database Workloads
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/945336de-adcf-42a2-83e0-dbd2dc7722a5" width="600">
+
+
 Business Analysis: Functional & Non-Functional Requirements 2024-01-01
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/aa636cc7-e18f-4371-babe-98893682823d" width="600">
 
