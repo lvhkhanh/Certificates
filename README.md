@@ -5,6 +5,16 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Data Modeling for MongoDB
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/58e4abc5-897a-4899-8127-3d7d71d69d15" width="600">
+
+
+Schema Design Patterns
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/8e82478b-35c9-4a97-858d-30b4e7b9aa9b" width="600">
+
+
 Modeling Data Relationships
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/8e021d28-8551-4f5a-abbf-9b3bd9b905ef" width="600">
