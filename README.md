@@ -5,6 +5,11 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+MuleSoft Developer Level 2 - Practice Exam Walkthrough
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/e3d3b49b-e61d-431e-99fb-cf3205e59a15" width="600">
+
+
 Data Modeling for MongoDB
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/58e4abc5-897a-4899-8127-3d7d71d69d15" width="600">
