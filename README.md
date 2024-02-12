@@ -5,6 +5,10 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+MongoDB Data Modeling Intro
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/51f3c711-00fc-474a-a6ce-fd9e900a2911" width="600">
+
+
 MongoDB and the Document Model
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/bc63bad3-4780-4fcb-9328-47145c64183d" width="600">
 
