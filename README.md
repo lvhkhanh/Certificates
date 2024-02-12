@@ -6,7 +6,7 @@
 # Certificates
 
  Mastering GitHub Copilot for Python & Django REST Developers
- ![image](https://github.com/lvhkhanh/Certificates/assets/919300/a3cca4db-bba8-4133-8a3c-287a52205773)
+ <img src="https://github.com/lvhkhanh/Certificates/assets/919300/a3cca4db-bba8-4133-8a3c-287a52205773" width="600">
 
  
 
