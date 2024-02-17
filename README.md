@@ -5,6 +5,10 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Getting Started with MongoDB Atlas
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/351f4375-3df5-492b-ad17-2f9cdef3a741" width="600">
+
+
 MongoDB Data Modeling Intro
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/51f3c711-00fc-474a-a6ce-fd9e900a2911" width="600">
 
