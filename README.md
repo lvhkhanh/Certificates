@@ -4,6 +4,9 @@
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
+MongoDB and the Document Model
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/426d57d5-b9c4-45c9-8d67-ee4e71863946" width="600">
+
 
 Getting Started with MongoDB Atlas
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/351f4375-3df5-492b-ad17-2f9cdef3a741" width="600">
