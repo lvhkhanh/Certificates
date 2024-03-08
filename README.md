@@ -4,6 +4,10 @@
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
+Introduction MongoDB for Healthcare
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/3ab2c7de-19de-4cdb-b8fe-59df95ac045e" width="600">
+
+
 MongoDB and the Document Model
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/426d57d5-b9c4-45c9-8d67-ee4e71863946" width="600">
 
