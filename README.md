@@ -5,6 +5,9 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+MongoDB Database Metrics & Monitoring
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/82f93b4a-6618-48fc-b9b5-1a456becfb1e" width="600">
+
 Advanced Schema Design Patterns 20240323
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/eb27ac70-2c02-41f3-936f-11677b16f3c6" width="600">
 
