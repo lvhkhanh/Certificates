@@ -5,6 +5,10 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+AWS PartnerCast - Babelfish: Modernizing SQL Server to PostgreSQL the Easy Way (Technical)
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/7a22aac6-7c88-4185-9258-7a96ee33fc5d" width="600">
+
+
 OutSystems Reactive for Beginners
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/cc9f4840-8cc1-40f2-9ae7-80b0b2c07b30" width="600">
 
