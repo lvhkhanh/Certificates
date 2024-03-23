@@ -5,6 +5,9 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Advanced Schema Design Patterns 20240323
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/eb27ac70-2c02-41f3-936f-11677b16f3c6" width="600">
+
 AWS PartnerCast - Babelfish: Modernizing SQL Server to PostgreSQL the Easy Way (Technical)
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/7a22aac6-7c88-4185-9258-7a96ee33fc5d" width="600">
 
