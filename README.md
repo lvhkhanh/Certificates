@@ -5,6 +5,11 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+
+Generative AI for Everyone 2024-03-30
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/51b749d6-07bf-4158-ab8b-59c2718d27d4" width="600">
+
 MongoDB Database Metrics & Monitoring
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/82f93b4a-6618-48fc-b9b5-1a456becfb1e" width="600">
 
