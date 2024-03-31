@@ -5,6 +5,10 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Generative AI for Executives and Business Leaders 20240331
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/1e4f5d84-70ff-465d-820b-0d0222717862" width="600">
+
+
 
 Generative AI for Everyone 2024-03-30
 
