@@ -5,6 +5,12 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+MongoDB Atlas Backup & Recovery 20240407
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/3ad68ff8-543b-4cfd-9de0-d36d18ae1f0c" width="600">
+
+
+
+
 MongoDB Atlas Search 20240407
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/09d2cee7-5e29-45b6-9fbe-d3f583a117bb" width="600">
