@@ -5,6 +5,11 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+MongoDB Indexes 20240407
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/e47e340e-886e-4701-b85c-d0c9420d82f2" width="600">
+
+
 MongoDB Atlas Administration 20240406
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/c9575d26-6a39-46be-b6e4-46a0b1a245ae" width="600">
