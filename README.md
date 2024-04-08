@@ -5,6 +5,11 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Atlas Essentials 20240408
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/0d479c8e-2e86-493e-93ef-dc6b3f1deaac" width="600">
+
+
 MongoDB Atlas Upgrades & Maintenance 20240408
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/25e2adb1-2d00-4c4a-9b10-6fd4d8e9167e" width="600">
