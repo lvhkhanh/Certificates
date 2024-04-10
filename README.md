@@ -1,9 +1,14 @@
 # Profiles
+## Microsoft https://learn.microsoft.com/en-us/users/khanhlvh
 ## Coursera https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## Udemy https://fpt.udemy.com/user/khanhlvh1/ https://fpt-software.udemy.com/user/khanhlvh1/ https://fpt-software.udemy.com/user/6f322d0b-fe1e-4c30-a6a9-e532b822d5a3/
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
+
+Fundamental AI Concepts 20240410 
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/9b9fe651-aa47-4853-a651-52db0066a1f0" width="600">
 
 Atlas Essentials 20240408
 
