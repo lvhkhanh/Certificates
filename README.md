@@ -6,6 +6,11 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Perform basic string formatting in C# 20240413
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/2dfb13fe-2d11-40a0-b7a0-768297e9af92" width="600">
+
+
 Install and configure Visual Studio Code 20240413
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/a106c105-f7eb-45c1-950d-a2c48f400dd0" width="600">
