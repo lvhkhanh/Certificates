@@ -6,6 +6,11 @@
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Install and configure Visual Studio Code 20240413
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/a106c105-f7eb-45c1-950d-a2c48f400dd0" width="600">
+
+
 Fundamental AI Concepts 20240410 
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/9b9fe651-aa47-4853-a651-52db0066a1f0" width="600">
