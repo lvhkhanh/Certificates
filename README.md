@@ -10,6 +10,12 @@ https://learn.microsoft.com/en-us/users/khanhlvh/transcript/vm9znbzw00084j4
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Deploying Java-Maven Application With Jenkins
+CI/CD Tool 20240427
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/9167e2ab-9327-4ec6-a164-3a8ed81ae16e" width="600">
+
+
 Perform basic string formatting in C# 20240413
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/2dfb13fe-2d11-40a0-b7a0-768297e9af92" width="600">
