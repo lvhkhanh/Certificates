@@ -10,6 +10,11 @@ https://learn.microsoft.com/en-us/users/khanhlvh/transcript/vm9znbzw00084j4
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Discovering Ethical AI 20240502
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/24a36055-0c3e-4ef2-a4ab-351a799b00f3" width="600">
+
+
 Deploying Java-Maven Application With Jenkins
 CI/CD Tool 20240427
 
