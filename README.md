@@ -14,6 +14,11 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Connecting to MongoDB in Python
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/62e52e0d-2e39-45b8-80e1-63014c9292c4" width="600">
+
+
 Discovering Ethical AI 20240502
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/24a36055-0c3e-4ef2-a4ab-351a799b00f3" width="600">
