@@ -1,4 +1,5 @@
 # Profiles
+## https://www.credly.com/users/le-vu-hoang-khanh/badges
 ## Microsoft https://learn.microsoft.com/en-us/users/khanhlvh
 
 https://learn.microsoft.com/en-us/users/khanhlvh/transcript/vm9znbzw00084j4
