@@ -15,6 +15,11 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Introduction to Git 20240515
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/8d3e9a75-bc33-44a3-931b-e9d307780850" width="600">
+
+
 Automate development tasks by using GitHub Actions 20240515
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/96296c88-8f60-402b-80f2-975af01be589" width="600">
