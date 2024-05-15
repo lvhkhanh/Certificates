@@ -15,6 +15,11 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Automate development tasks by using GitHub Actions 20240515
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/96296c88-8f60-402b-80f2-975af01be589" width="600">
+
+
 Connecting to MongoDB in Python
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/62e52e0d-2e39-45b8-80e1-63014c9292c4" width="600">
