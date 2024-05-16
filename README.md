@@ -15,6 +15,12 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Using GitHub Copilot with Python 2024-05-16
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/02a29b8f-5c2a-47a8-8416-8bedb539e712" width="600">
+
+
+
 Introduction to GitHub Copilot 20240515
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/69aaf4ff-9566-4c5b-b803-af05a424247f" width="600">
