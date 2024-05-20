@@ -15,6 +15,11 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Oracle Guided Learning Project Management Certified Foundations Associate - Rel 1 (Beta) 2024-05-19
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/d44f654f-b97e-4c6d-b6fb-533dbd9537b1" width="600">
+
+
 Manage repository changes by using pull requests on GitHub
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/a7103f37-5650-4b34-9ebd-44174e7e0672" width="600">
