@@ -15,6 +15,11 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Oracle Guided Learning Content Developer Certified Foundations Associate Rel 1 2024-05-21
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/c2275d31-e31a-4999-92cc-786444c20b8a" width="600">
+
+
 Oracle Guided Learning Project Management Certified Foundations Associate - Rel 1 (Beta) 2024-05-19
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/d44f654f-b97e-4c6d-b6fb-533dbd9537b1" width="600">
