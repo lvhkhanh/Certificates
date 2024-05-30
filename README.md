@@ -15,6 +15,11 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Oracle Cloud Infrastructure 2024 Generative AI Certified Professional 2024-05-30
+
+<img src="https://github.com/lvhkhanh/Certificates/assets/919300/4a7899cc-7a16-4c15-a334-7a9ae5f7d3b3" width="600">
+
+
 Oracle Guided Learning Content Developer Certified Foundations Associate Rel 1 2024-05-21
 
 <img src="https://github.com/lvhkhanh/Certificates/assets/919300/c2275d31-e31a-4999-92cc-786444c20b8a" width="600">
