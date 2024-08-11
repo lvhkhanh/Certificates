@@ -15,6 +15,11 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate 2024-08-09
+
+<img src="https://github.com/user-attachments/assets/3b18d633-8f52-4af6-b260-822c9f227eb4" width="600">
+
+
 Discovering Predictive Analytics with Alteryx 2024-07-18
 
 <img src="https://github.com/user-attachments/assets/37548730-2643-4f79-bdea-c7a551e0041c" width="600">
