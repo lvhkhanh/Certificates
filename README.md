@@ -15,6 +15,12 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Amazon Bedrock Getting Started 2024-08-12
+
+<img src="https://github.com/user-attachments/assets/48315980-ef58-4e55-b06a-988ed3192774" width="600">
+
+
+
 Oracle Cloud Infrastructure 2024 Certified Foundations Associate 2024-08-11
 
 <img src="https://github.com/user-attachments/assets/faea2495-0239-432b-9855-5bfc88b52e72" width="600">
