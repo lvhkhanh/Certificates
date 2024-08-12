@@ -15,6 +15,11 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Oracle Cloud Infrastructure 2024 Certified Foundations Associate 2024-08-11
+
+<img src="https://github.com/user-attachments/assets/faea2495-0239-432b-9855-5bfc88b52e72" width="600">
+
+
 Oracle Cloud Infrastructure 2024 Certified AI Foundations Associate 2024-08-09
 
 <img src="https://github.com/user-attachments/assets/3b18d633-8f52-4af6-b260-822c9f227eb4" width="600">
