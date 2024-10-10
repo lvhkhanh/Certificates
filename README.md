@@ -15,6 +15,11 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
 
+Oracle Cloud Infrastructure 2024 Data Foundations Associate (1Z0-1195-24)
+
+<img src="https://github.com/user-attachments/assets/434b5266-cb72-4b4b-8ae3-17a6cedc6b0b" width="600">
+
+
 Amazon Bedrock Getting Started 2024-08-12
 
 <img src="https://github.com/user-attachments/assets/48315980-ef58-4e55-b06a-988ed3192774" width="600">
