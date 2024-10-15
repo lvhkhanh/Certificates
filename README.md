@@ -14,6 +14,9 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
+Introduction to AI and Vector Search 20241015
+<img src="https://github.com/user-attachments/assets/98604b45-8f4e-42b4-afcc-bbb65fe90751" width="600">
+
 
 Oracle Cloud Infrastructure 2024 Data Foundations Associate (1Z0-1195-24)
 
