@@ -14,6 +14,12 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
+
+Oracle Cloud Infrastructure for Sunbird Ed Specialty
+
+<img src="https://github.com/user-attachments/assets/d80b0f0b-a108-4ecc-9640-9d5320d1cd57" width="600">
+
+
 Introduction to AI and Vector Search 20241015
 <img src="https://github.com/user-attachments/assets/98604b45-8f4e-42b4-afcc-bbb65fe90751" width="600">
 
