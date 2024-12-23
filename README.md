@@ -14,6 +14,28 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ## Pluralsight https://app.pluralsight.com/profile/KhanhLVH
 ## [Datacamp lvhkhanh](https://www.datacamp.com/portfolio/lvhkhanh)
 # Certificates
+## Cloud Provider
+### Amazon Web Services AWS
+### Microsoft Azure
+### Google Cloud Platform GCP
+### Oracle Cloud Infrastruture OCI
+## Database
+### SQL
+#### MySQL
+#### MS SQL
+#### PostgreSQL
+#### Oracle
+### NoSQL
+#### DynamoDB
+#### MongoDB
+## Datawarehouse
+### Snowflake
+### AWS Redshift
+## Low-Code
+### Integration Platform
+#### MuleSoft
+### Application Platform
+#### Mendix
 
 Oracle Cloud Infrastructure for Sunbird Ed Specialty
 
