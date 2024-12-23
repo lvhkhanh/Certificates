@@ -1,4 +1,5 @@
 # Profiles
+## GCP https://www.cloudskillsboost.google/public_profiles/ca190a27-c9e6-413b-9060-10af6a671d4a
 ## https://www.credly.com/users/le-vu-hoang-khanh/badges
 ## Microsoft https://learn.microsoft.com/en-us/users/khanhlvh
 
