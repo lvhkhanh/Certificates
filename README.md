@@ -38,7 +38,7 @@ https://www.coursera.org/user/4791023f0ead36f59523b99f0509fccd
 ### Integration Platform
 #### MuleSoft
 ### Application Platform
-#### Mendix
+#### [Mendix](https://developerprofiles.mendix.com/link/profile/overview/849182)
 
 Oracle Cloud Infrastructure for Sunbird Ed Specialty
 
